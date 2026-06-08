@@ -1,5 +1,5 @@
 ---
-name: GraphQl.C30
+name: GraphQl.C100
 author: Humza
 description: Energy consumption measurement of GraphQl under concurrent load using k6.
 active-nodes:

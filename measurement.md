@@ -1,5 +1,5 @@
 ---
-name: GraphQl.C4000
+name: GraphQl.C2000
 author: Humza
 description: Energy consumption measurement of GraphQl under concurrent load using k6.
 active-nodes:
